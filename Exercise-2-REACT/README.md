@@ -24,7 +24,7 @@ Underneath it should be a list of Pokemon with pictures and any information.
 #### Tips
 - Use [useState](https://reactjs.org/docs/hooks-state.html) to store your Pokemon in an Array
 - Reuse your Api Fetch function from exercise 1
-- Wenn du Probleme hast, einzelne Objekte dem Array in deinem useState hinzuzufügen, nutze den [Javascript Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) wie [hier](https://medium.com/javascript-in-plain-english/how-to-add-to-an-array-in-react-state-3d08ddb2e1dc).
+- If you have problems adding single objects to the array in your useState, use the [Javascript Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) like [here](https://medium.com/javascript-in-plain-english/how-to-add-to-an-array-in-react-state-3d08ddb2e1dc).
 - Use Functional Components for your components
 
 #### Extras 
