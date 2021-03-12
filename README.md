@@ -6,7 +6,7 @@ To be able to evaluate your own level of knowledge and at the same time have a c
 
 According to the roadmap it would be best to get an overview of the following topics before you start the exercises:
 - How does the internet work
-- What is HHTP
+- What is HTTP
 - Browsers and how they work
 - DNS and how it works
 - What is Domain Name
